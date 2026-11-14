@@ -5,3 +5,9 @@ GitHub: `https://github.com/u2re-space/u2ai-solver`
 Предназначение: Тоже сервер, а также CLI, но уже с другой целью - распознать по картинке, или решить определённую задачу, а также конвертировать форматы (md, html, katex, mathml и т.д.).
 По мотивам прошлых проектов от u2re-space, вроде `CWSP-process`, часть исходников можно найти в `u2re-dev@192.168.0.200`, директория `/home/u2re-dev/U2RE.space`. 
 В будущем будет применяться ещё к расширению Chrome... также можно будет делать из этой системы некие рабочие чаты (боты), с возможностью пакетной обработки. 
+
+Предолагаемые исходники...
+- `https://github.com/u2re-space/CWSP-process`
+- `https://github.com/u2re-space/CWSP-crx`
+- `https://github.com/u2re-space/CWSP-shared`
+- `https://github.com/u2re-space/subsystem.ts`
